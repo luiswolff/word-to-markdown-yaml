@@ -1,0 +1,6 @@
+# exlude all non maven files
+/*
+!/src
+!/pom.xml
+!/.gitignore
+!/LICENSE 
